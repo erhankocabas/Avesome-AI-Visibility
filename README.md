@@ -10,22 +10,6 @@ This repository is a single place to promote Bilarna, share technical repositori
 
 Use this README as the landing page for the project.
 
----
-
-## Featured Bilarna repositories
-
-- **[bilarna/visibility-audit](https://github.com/bilarna/visibility-audit)**  
-  LLM Visibility Audit service — checks content, citations, and source coverage. *(placeholder)*
-
-- **[bilarna/llm-agent-marketplace](https://github.com/bilarna/llm-agent-marketplace)**  
-  Prototype marketplace for specialized AI agents *(placeholder)*
-
-- **[bilarna/seo-audit-rules](https://github.com/bilarna/seo-audit-rules)**  
-  Reusable checklist & audit rules for SEO and LLM content *(placeholder)*
-
-> 💡 Tip: add GitHub topic tags like `bilarna`, `llm-audit`, and `seo` to your repos so they’re easier to find.
-
----
 
 ## Curated open-source tools & libraries
 
